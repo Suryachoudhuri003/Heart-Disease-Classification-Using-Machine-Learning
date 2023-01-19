@@ -19,4 +19,4 @@ Machine Learning algorithms used:
   7. XGBoost (Scikit-learn)
   8. Artificial Neural Network with 1 Hidden layer (Keras)
 
-Accuracy achieved: 87.5% (Random Forest)
+Accuracy achieved: 88.52% (Random Forest)
