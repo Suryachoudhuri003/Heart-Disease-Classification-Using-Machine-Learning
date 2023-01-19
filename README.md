@@ -19,4 +19,5 @@ Machine Learning algorithms used:
   7. XGBoost (Scikit-learn)
   8. Artificial Neural Network with 1 Hidden layer (Keras)
 
+Check the output results here: https://github.com/Suryachoudhuri003/Heart-Disease-Classification-Using-Machine-Learning/blob/master/.ipynb_checkpoints/89a73e38aa63804abdbd26a4a2e1d362-checkpoint.ipynb
 Accuracy achieved: 88.52% (Random Forest)
